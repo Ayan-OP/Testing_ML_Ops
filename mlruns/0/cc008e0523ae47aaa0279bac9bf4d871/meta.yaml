@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ayaan/Downloads/mlflowtest/mlruns/0/cc008e0523ae47aaa0279bac9bf4d871/artifacts
+end_time: 1720773588614
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc008e0523ae47aaa0279bac9bf4d871
+run_name: illustrious-gull-734
+run_uuid: cc008e0523ae47aaa0279bac9bf4d871
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720773581726
+status: 3
+tags: []
+user_id: ayaan

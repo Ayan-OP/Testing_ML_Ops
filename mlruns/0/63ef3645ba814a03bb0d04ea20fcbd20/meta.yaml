@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ayaan/Downloads/mlflowtest/mlruns/0/63ef3645ba814a03bb0d04ea20fcbd20/artifacts
+end_time: 1720774628452
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 63ef3645ba814a03bb0d04ea20fcbd20
+run_name: enthused-moose-131
+run_uuid: 63ef3645ba814a03bb0d04ea20fcbd20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720774622394
+status: 3
+tags: []
+user_id: ayaan

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ayaan/Downloads/mlflowtest/mlruns/0/af00c8fffe054398941921aa269a6fd3/artifacts
+end_time: 1720774647549
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: af00c8fffe054398941921aa269a6fd3
+run_name: incongruous-frog-328
+run_uuid: af00c8fffe054398941921aa269a6fd3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720774643194
+status: 3
+tags: []
+user_id: ayaan

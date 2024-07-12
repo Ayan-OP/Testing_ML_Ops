@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ayaan/Downloads/mlflowtest/mlruns/0/8df0217338114eb7878a0bf746cd4706/artifacts
+end_time: 1720774667389
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8df0217338114eb7878a0bf746cd4706
+run_name: thundering-mule-731
+run_uuid: 8df0217338114eb7878a0bf746cd4706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720774663078
+status: 3
+tags: []
+user_id: ayaan
